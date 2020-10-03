@@ -11,6 +11,7 @@
 * https://www.geeksforgeeks.org/chmod-command-linux/
 
 ## sudo command
+* SUper DO command
 * runs commands with administrative privileges
 * https://www.geeksforgeeks.org/sudo-command-in-linux-with-examples/
 
